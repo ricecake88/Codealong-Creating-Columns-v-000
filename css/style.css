@@ -95,7 +95,7 @@ img, video, audio {
 }
 
 .col-3 {
-  background: #CCC;
+  background: "light gray";
 }
 
 .clearfix:after {
